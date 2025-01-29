@@ -166,6 +166,14 @@ Supported metrics:
 [prometheus]: https://prometheus.io/
 [process metrics]: https://prometheus.io/docs/instrumenting/writing_clientlibs/#process-metrics
 
+## Custom Branding
+
+To customize the header branding with your own organization's name and logo:
+
+1. Copy `.env.sample` to `.env` in the website directory:
+   ```bash
+   cp website/.env.sample website/.env
+
 ## Translations
 
 Yopass has third party support for other languages. That means you can write translations for the language you'd like or use a third party language file. Please note that yopass itself is english only and any other translations are community supported.
