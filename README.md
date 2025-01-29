@@ -170,7 +170,7 @@ Supported metrics:
 
 To customize the header branding with your own organization's name and logo:
 
-1. Copy `.env.sample` to `.env` in the website directory:
+1. Copy `.env.sample` to `.env` in the website directory and modify to your liking:
    ```bash
    cp website/.env.sample website/.env
 
